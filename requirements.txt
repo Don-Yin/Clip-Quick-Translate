@@ -1,0 +1,3 @@
+googletrans==4.0.0rc1
+pyperclip==1.8.2
+PyDictionary==2.0.1
