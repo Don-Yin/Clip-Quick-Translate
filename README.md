@@ -2,7 +2,7 @@
 This project is under development, with further refinements and feature additions in progress. Your feedback and contributions are highly appreciated. 
 
 ## Demo
-(Insert a demo video here to illustrate how the tool works.)
+![](https://github.com/Don-Yin/Clip-Translate/blob/a5c2d0e5dd4ccc8c9adcea1176fa0db7de725f5c/public/demo.gif)
 
 ## Overview
 Yhis is a handy tool designed to translate stuff as soon as you copy them. Just copy a text anywhere on your system, and a popup window will instantly provide its translation in a selected target language.
