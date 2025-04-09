@@ -7,7 +7,6 @@ This project is under development, with further refinements and feature addition
 ## Overview
 Yhis is a handy tool designed to translate stuff as soon as you copy them. Just copy a text anywhere on your system, and a popup window will instantly provide its translation in a selected target language.
 
-本来是给女朋友做的，但是她一直没拿来用
 ：（
 
 ## Get Started
